@@ -4,6 +4,8 @@ status: Completed
 category: 기술
 ---
 
+테스트!!
+
 ## 개념
 가상 머신(VM, virtual machine)은 특정 하드웨어에 구속(종속)되지 않는 컴퓨터 및 해당 운영 체제(operating system)이다.
 VM은 [가상화(virtualization)](https://glossary.cncf.io/virtualization/)를 필요로 하는데 이는 단일 물리 컴퓨터를 여러 대의 가상 컴퓨터로 분할하기 위함이다. 
